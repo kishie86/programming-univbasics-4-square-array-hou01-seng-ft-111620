@@ -3,7 +3,7 @@ def square_array(array)
   new_array = []
   count = 0
   while count < array.push do
-  array[count] = array[count].Math.sqrt do
+  array[count] = array[count]
   count += 1 
 end
 end
